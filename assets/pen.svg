@@ -1,0 +1,16 @@
+    <svg width="900" height="900" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <symbol id="pen" viewbox="0 0 900 900"> <!--something wrong here?-->
+            <polyline stroke="black" fill="yellow" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"
+                points="619,696 631,657 91,201 121,167 666,622 707,600 665,622 631,657 619,696 92,243 91,201 121,167 170,158 707,600">
+            </polyline>
+            <polyline stroke="black" fill="beige" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"
+                points="619,696 631,657 665,622 707,600 775,749 619,696">
+            </polyline>
+            <polyline stroke="black" fill="black" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"
+                points="710,727 714,710 727,694 746,686 775,749 710,727">
+            </polyline>
+            <polyline stroke="black" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                points="631,657 775,749 665,622">
+            </polyline>
+        </symbol>
+    </svg>
